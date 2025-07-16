@@ -17,7 +17,7 @@ It includes:
 - `usb-to-uart.kicad_pcb` – PCB layout file
 - `usb-to-uart.kicad_pro` – KiCad project file
 - `symbols/` – Custom schematic symbols 
-- `footprints/` – Custom footprints
+-  USB Type-C 3D Model
 - `gerber/` – Gerber and drill files for fabrication
 - `bom.csv` – Bill of Materials
 
